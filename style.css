@@ -1,0 +1,54 @@
+.container {
+    height: 1100px;
+    width: 900px;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 15px;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+h1 {
+    color: rgb(107, 90, 90);
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    font-size: 65px;
+    text-align: center;
+}
+.row {
+    display: flex;
+    padding: 25px;
+    margin: 25px 10px;
+}
+#box-1 {
+    justify-content: space-between;
+    background-color: rgb(87, 202, 240);
+    
+}
+#box-2 {
+    background-color: lightpink;
+    justify-content: space-evenly;
+}
+#box-3 {
+    justify-content: space-between;
+    background-color: white;
+    display: flex;
+    align-items: center;
+
+}
+.uniform {
+    height: 10px;
+    margin: 20px auto;
+}
+#octodex {
+    font-size: 20px;
+    justify-content: center;
+    color: black;
+    text-align: center;
+}
+img {
+    height: 200px;
+}
+.blue-octo {
+    font-size: 25px;
+    color:rgb(87, 202, 240)
+}
